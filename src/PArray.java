@@ -24,8 +24,8 @@ public class PArray {
                 min_index=i;
             }
         }
-        System.out.println(min);
-        System.out.println(max);
+        System.out.println("minimum marks of rol no." + min_index + " is " + min);
+        System.out.println("maximum marks of rol no." + max_index + " is " + max);
 
     }
 }
