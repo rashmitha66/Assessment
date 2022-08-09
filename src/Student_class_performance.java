@@ -8,7 +8,7 @@ public class Student_class_performance {
         int TotalAvgMarks=0;
 
         int[] subjectAvg=new int[5];
-        
+
         // Totalmarks
 
         for(int i=0;i<15;i++){
