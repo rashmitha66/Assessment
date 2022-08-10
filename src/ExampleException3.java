@@ -1,6 +1,6 @@
 public class ExampleException3 {
     public static void main(String args[]){
-        String s="";
+        String s= null;
         try{
             System.out.println(s.length());
 
